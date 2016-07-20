@@ -7,7 +7,7 @@ title: kuo zi
 subtitle:
 description: kuo zi的博客
 author: kuo zi
-language: 中文
+language: zh-Hans
 timezone:
 
 # URL
@@ -63,9 +63,28 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
+
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
+
+
+#头像
+avatar: /uploads/kuo-zi.png
+
+#社交网站
+social:
+  GitHub: https://github.com/wenchao-pc
+  Twitter: https://twitter.com/kuo_zi
+  Facebook: https://www.facebook.com/profile.php?id=100009014024106
+  Weibo: http://weibo.com/2422997511/profile?topnav=1&wvr=6&is_all=1
+  ZhiHu: https://www.zhihu.com/people/kuo-zi-20
+
+#百度统计
+baidu_analytics: f04715ec039344586cc9599f417697e3
+
+#评论
+duoshuo_shortname: kuo-zi
